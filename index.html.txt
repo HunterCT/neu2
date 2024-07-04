@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 <p>Dies ist eine neue Zeile, hinzugefügt von Bearbeiter 2.</p>
 <p>Weitere Änderungen von Bearbeiter 3.</p>
-=======
->>>>>>> parent of a6ba239 (Update index.html.txt)
